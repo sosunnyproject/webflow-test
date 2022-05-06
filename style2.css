@@ -1,0 +1,75 @@
+<style>
+.svg1-1 path:hover {
+  fill: #ff5400;
+  transition: fill 1s cubic-bezier(0.25, 1, 0.5, 1);;
+}
+.svg1-2 path:hover {
+  fill: #ff0800;
+  transition: fill 1s cubic-bezier(0.25, 1, 0.5, 1);;
+}
+.svg1-3 path:hover {
+  fill: #f7cb15;
+  transition: fill 1s cubic-bezier(0.25, 1, 0.5, 1);;
+}
+.svg1-4 path:hover {
+  fill: #FF51A2;
+  transition: fill 1s cubic-bezier(0.25, 1, 0.5, 1);;
+}
+.svg1-5 path:hover {
+  fill: #00ffcd;
+  transition: fill 1s cubic-bezier(0.25, 1, 0.5, 1);;
+}
+.svg1-6 path:hover {
+  fill: #833BFF;
+  transition: fill 1s cubic-bezier(0.25, 1, 0.5, 1);;
+}
+.svg201 path:hover {
+  fill: #FFBC42;
+	transition: transform 1s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.svg202 path:hover {
+  fill: #D81159;
+	transition: transform 1s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.svg203 path:hover {
+  fill: #73FBD3;
+	transition: transform 1s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.svg204 path:hover {
+  fill: #FF0090;
+	transition: transform 1s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.svg205 path:hover {
+  fill: #5438DC;
+	transition: transform 1s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.svg206 path:hover {
+  fill: #1EFC1E;
+	transition: transform 1s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.svg301 path:hover {
+  fill: #2CFF6F;
+  transition: transform 1s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.svg302 path:hover {
+  fill: #FF444B;
+	transition: transform 1s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.svg303 path:hover {
+  fill: #A7FF1A;
+	transition: transform 1s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.svg304 path:hover {
+  fill: #00FFF7;
+	transition: transform 1s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.svg305 path:hover {
+  fill: #934BFF;
+	transition: transform 1s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.svg306 path:hover {
+  fill: #FF33CC;
+	transition: transform 1s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+</style>
